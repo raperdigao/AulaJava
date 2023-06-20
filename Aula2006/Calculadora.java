@@ -50,6 +50,9 @@ public class Calculadora {
 			System.out.println("Comando Inválido");
 		}
 			System.out.println("O resultado é: " + resposta);
+			
+			
+			
 		
 		
 		/* char letra = 'A';
